@@ -31,11 +31,23 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erenmente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erenmente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenmente&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+  <img src="https://streak-stats.demolab.com/?user=erenmente&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=erenmente&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy"/>
 
 </div>
 
@@ -53,11 +65,19 @@ Modern bir yemek sipariş uygulaması
 Portfolyo ve kişisel blog sitesi  
 🔗 [erenmente.com](https://www.erenmente.com/)
 
-## 📈 Aktivite
+## 📈 Aktivite Grafiği
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erenmente&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erenmente&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/erenmente/erenmente/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -75,7 +95,7 @@ Portfolyo ve kişisel blog sitesi
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/erenmente/count.svg)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ferenmente&label=Ziyaretçi%20Sayısı&countColor=%2358a6ff&style=flat&labelStyle=none)
   
   **💙 Profilimi ziyaret ettiğiniz için teşekkürler!**
   
