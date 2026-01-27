@@ -1,4 +1,4 @@
-# Merhaba, ben Eren Mente! 👋
+# Merhaba, ben Eren Mente 👋
 
 <div align="center">
   
