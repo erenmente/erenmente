@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Her 12 saatte bir çalışır
+  workflow_dispatch: # Manuel çalıştırma seçeneği
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
@@ -11,18 +14,16 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: erenmente
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
