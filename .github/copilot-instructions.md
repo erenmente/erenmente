@@ -68,12 +68,12 @@ This repository serves as:
 
 ## External Dependencies
 
-- GitHub README Stats API: github-readme-stats.vercel.app
-- Profile Summary Cards: github-profile-summary-cards.vercel.app
-- Activity Graph: github-readme-activity-graph.vercel.app
-- Typing SVG: readme-typing-svg.herokuapp.com
-- Visitor Badge: api.visitorbadge.io
-- Shields.io for badges
+- GitHub README Stats API: https://github-readme-stats.vercel.app
+- Profile Summary Cards: https://github-profile-summary-cards.vercel.app
+- Activity Graph: https://github-readme-activity-graph.vercel.app
+- Typing SVG: https://readme-typing-svg.herokuapp.com
+- Visitor Badge: https://api.visitorbadge.io
+- Shields.io for badges: https://shields.io
 
 ## Workflow Information
 
