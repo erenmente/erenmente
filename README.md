@@ -72,11 +72,7 @@ Portfolyo ve kişisel blog sitesi
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/erenmente/erenmente/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
+![Snake animation](https://raw.githubusercontent.com/erenmente/erenmente/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Benimle İletişime Geçin
 
