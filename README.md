@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Yazılım+Mühendisliği+Öğrencisi;Full+Stack+Developer;Problem+Çözmeyi+Seviyorum!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Yazılım+Mühendisliği+Öğrencisi;Full+Stack+Developer;Problem+Çözmeyi+Seviyorum)
   
 </div>
 
@@ -31,9 +31,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenmente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenmente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -72,7 +72,11 @@ Portfolyo ve kişisel blog sitesi
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/erenmente/erenmente/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erenmente/erenmente/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erenmente/erenmente/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erenmente/erenmente/output/dist/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Benimle İletişime Geçin
 
