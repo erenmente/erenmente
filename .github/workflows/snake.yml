@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Manuel çalıştırma seçeneği
   push:
     branches:
-    - main
+    - master
 
 jobs:
   generate:
