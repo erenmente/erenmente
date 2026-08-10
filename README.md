@@ -32,9 +32,14 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenmente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <!-- İstatistikler (token gerektirmeyen alternatifler) -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=erenmente&show_icons=true&theme=dark)
+
+  ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=dark)
+
+  ![Followers](https://img.shields.io/github/followers/erenmente?label=Followers&style=social)
+
+  ![Contribution Graph](https://ghchart.rshah.org/erenmente)
 
 </div>
 
