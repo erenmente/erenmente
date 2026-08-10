@@ -28,21 +28,6 @@
 
 </div>
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  
-  <!-- İstatistikler (token gerektirmeyen alternatifler) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=erenmente&show_icons=true&theme=dark)
-
-  ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenmente&layout=compact&theme=dark)
-
-  ![Followers](https://img.shields.io/github/followers/erenmente?label=Followers&style=social)
-
-  ![Contribution Graph](https://ghchart.rshah.org/erenmente)
-
-</div>
-
 ## 📈 Detaylı İstatistikler
 
 <div align="center">
